@@ -1,2 +1,3 @@
 # hello-world
 Rock'n Roll!
+It's strange how a man changes as he gets older. Now I enjoy things that I disliked when I was younger. Following this Hello World tutorial for example. I wouldn't have had the patience to read a tutorial through when I was 20...
